@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "tenMonAn": "Phở Bò",
+    "giaMonAn": 50.000,
+    "moTa": "Phở Bò là một món ăn truyền thống của Việt Nam, nổi tiếng với nước dùng được hầm từ xương bò, tạo nên vị ngọt tự nhiên, kèm theo bánh phở mềm và thịt bò thái mỏng, thường được thưởng thức cùng rau thơm và chanh tươi."
+  },
+  {
+    "id": 2,
+    "tenMonAn": "Bún Chả",
+    "giaMonAn": 60.000,
+    "moTa": "Bún Chả là một món ăn đặc sản nổi tiếng của Hà Nội, gồm bún tươi mềm, thịt chả được nướng trên than hồng, cùng với nước mắm pha chua ngọt, mang lại hương vị độc đáo và hấp dẫn."
+  },
+  {
+    "id": 3,
+    "tenMonAn": "Phở Gà",
+    "giaMonAn": 50.000,
+    "moTa": "Phở Gà là phiên bản khác của phở, được chế biến từ thịt gà tươi ngon và nước dùng trong, tạo nên một món ăn thanh nhẹ và bổ dưỡng, thường được kèm theo hành lá và rau thơm."
+  },
+  {
+    "id": 4,
+    "tenMonAn": "Bánh Mì Thịt",
+    "giaMonAn": 20.000,
+    "moTa": "Bánh Mì Thịt là một món ăn đường phố phổ biến của Việt Nam, gồm bánh mì giòn bên ngoài, nhân thịt heo, chả lụa và rau sống, mang đến trải nghiệm ẩm thực thú vị và dễ chịu."
+  },
+  {
+    "id": 5,
+    "tenMonAn": "Gỏi Cuốn",
+    "giaMonAn": 25.000,
+    "moTa": "Gỏi Cuốn là món ăn nhẹ và lành mạnh, bao gồm các nguyên liệu như tôm tươi, thịt heo, rau sống và bánh tráng, thường được chấm với nước sốt đậu phộng hoặc nước mắm chua ngọt."
+  },
+  {
+    "id": 6,
+    "tenMonAn": "Cơm Tấm",
+    "giaMonAn": 40.000,
+    "moTa": "Cơm Tấm là một đặc sản nổi tiếng của Sài Gòn, thường được chế biến từ gạo tấm, kèm theo sườn nướng thơm lừng, trứng ốp la và dưa leo, tạo nên một bữa ăn ngon miệng và bổ dưỡng."
+  },
+  {
+    "id": 7,
+    "tenMonAn": "Bánh Xèo",
+    "giaMonAn": 35.000,
+    "moTa": "Bánh Xèo là món ăn nổi bật của miền Trung, với lớp bánh mỏng vàng giòn, được nhồi đầy nhân tôm, thịt và giá đỗ, thường ăn kèm với rau sống và nước chấm chua ngọt."
+  },
+  {
+    "id": 8,
+    "tenMonAn": "Chả Cá Lã Vọng",
+    "giaMonAn": 70.000,
+    "moTa": "Chả Cá Lã Vọng là món ăn đặc trưng của Hà Nội, gồm cá lăng được ướp gia vị, nướng và xào cùng thì là, thường được thưởng thức với bún và nước mắm chua ngọt."
+  },
+  {
+    "id": 9,
+    "tenMonAn": "Mì Quảng",
+    "giaMonAn": 55.000,
+    "moTa": "Mì Quảng là đặc sản miền Trung, bao gồm mì vàng tươi, nước dùng đậm đà từ tôm, thịt và rau sống, thường được trang trí bằng đậu phộng rang và hành phi."
+  },
+  {
+    "id": 10,
+    "tenMonAn": "Bún Bò Huế",
+    "giaMonAn": 60.000,
+    "moTa": "Bún Bò Huế là món ăn cay đặc sản của Huế, với nước dùng được chế biến từ xương bò và nhiều gia vị đặc trưng, thường đi kèm với bún và các loại rau sống."
+  },
+  {
+    "id": 11,
+    "tenMonAn": "Hủ Tiếu Nam Vang",
+    "giaMonAn": 50.000,
+    "moTa": "Hủ Tiếu Nam Vang là một món ăn nước dùng ngon, kết hợp giữa hủ tiếu mềm mịn và nước dùng ngọt thanh từ xương, thường được kèm với thịt và rau sống."
+  },
+  {
+    "id": 12,
+    "tenMonAn": "Bánh Cuốn",
+    "giaMonAn": 30.000,
+    "moTa": "Bánh Cuốn là món ăn truyền thống được làm từ bột gạo, có nhân thịt và nấm, được ăn kèm với nước mắm chua ngọt và rau thơm tươi ngon."
+  },
+  {
+    "id": 13,
+    "tenMonAn": "Nem Rán",
+    "giaMonAn": 45.000,
+    "moTa": "Nem Rán là món ăn ngon miệng, với lớp vỏ giòn tan bên ngoài, bên trong là nhân thịt và rau củ, thường được chấm với nước mắm."
+  },
+  {
+    "id": 14,
+    "tenMonAn": "Bánh Khọt",
+    "giaMonAn": 40.000,
+    "moTa": "Bánh Khọt là món bánh nhỏ, chiên giòn, thường có nhân tôm và được ăn kèm với rau sống và nước mắm, rất được yêu thích ở miền Nam."
+  },
+  {
+    "id": 15,
+    "tenMonAn": "Lẩu Thái",
+    "giaMonAn": 150.000,
+    "moTa": "Lẩu Thái là một món ăn cay ngon, với nước dùng đậm đà hương vị Thái, bao gồm nhiều loại hải sản và rau tươi, rất thích hợp cho những buổi tiệc gia đình."
+  },
+  {
+    "id": 16,
+    "tenMonAn": "Lẩu Cá Kèo",
+    "giaMonAn": 130.000,
+    "moTa": "Lẩu Cá Kèo là món lẩu đặc sản của miền Tây, với nước dùng chua ngọt, cá kèo tươi ngon và rau xanh, mang đến trải nghiệm ẩm thực thú vị."
+  },
+  {
+    "id": 17,
+    "tenMonAn": "Bún Thịt Nướng",
+    "giaMonAn": 50.000,
+    "moTa": "Bún Thịt Nướng là món ăn gồm bún tươi và thịt nướng, kèm theo nước chấm đặc trưng và rau sống, tạo nên một bữa ăn thanh mát và ngon miệng."
+  },
+  {
+    "id": 18,
+    "tenMonAn": "Bánh Canh Cua",
+    "giaMonAn": 60.000,
+    "moTa": "Bánh Canh Cua là món ăn hấp dẫn với sợi bánh canh mềm và nước dùng từ cua đồng, tạo nên vị ngọt tự nhiên và rất được yêu thích."
+  },
+  {
+    "id": 19,
+    "tenMonAn": "Cơm Gà Hội An",
+    "giaMonAn": 55.000,
+    "moTa": "Cơm Gà Hội An là một đặc sản nổi tiếng, với cơm thơm ngon, gà hấp mềm và nước sốt đặc trưng, mang lại hương vị hấp dẫn và đậm đà."
+  },
+  {
+    "id": 20,
+    "tenMonAn": "Bánh Bèo",
+    "giaMonAn": 20.000,
+    "moTa": "Bánh Bèo là món bánh nhỏ xíu, mềm mại, được làm từ bột gạo và có nhân tôm, thường được ăn kèm với nước mắm và rau sống."
+  },
+  {
+    "id": 21,
+    "tenMonAn": "Xôi Xéo",
+    "giaMonAn": 25.000,
+    "moTa": "Xôi Xéo là món xôi thơm ngon, được làm từ gạo nếp và đậu xanh, thường được ăn kèm với hành phi và thịt mỡ, tạo nên bữa sáng tuyệt vời."
+  },
+  {
+    "id": 22,
+    "tenMonAn": "Bánh Giò",
+    "giaMonAn": 15.000,
+    "moTa": "Bánh Giò là món bánh mềm với nhân thịt, được gói trong lá chuối, thường được thưởng thức vào bữa sáng hoặc làm món ăn nhẹ."
+  },
+  {
+    "id": 23,
+    "tenMonAn": "Bánh Bột Lọc",
+    "giaMonAn": 25.000,
+    "moTa": "Bánh Bột Lọc là món bánh đặc sản của Huế, với lớp vỏ trong suốt và nhân tôm, được ăn kèm với nước mắm chua ngọt."
+  },
+  {
+    "id": 24,
+    "tenMonAn": "Bánh Đa Cua",
+    "giaMonAn": 50.000,
+    "moTa": "Món bánh đa cua đặc sản Hải Phòng, với sợi bánh đa mềm, nước dùng ngọt thanh từ cua đồng, ăn kèm rau sống và gia vị."
+  },
+  {
+    "id": 25,
+    "tenMonAn": "Cơm Rang Dưa Bò",
+    "giaMonAn": 40.000,
+    "moTa": "Cơm rang vàng giòn, kết hợp cùng dưa chua và thịt bò thái mỏng, tạo nên hương vị thơm ngon, hấp dẫn."
+  },
+  {
+    "id": 26,
+    "tenMonAn": "Bún Riêu Cua",
+    "giaMonAn": 50.000,
+    "moTa": "Bún riêu cua với nước dùng từ cua đồng và cà chua, ăn kèm với rau sống và gia vị, mang lại hương vị đậm đà."
+  },
+  {
+    "id": 27,
+    "tenMonAn": "Cháo Lươn",
+    "giaMonAn": 45.000,
+    "moTa": "Món cháo lươn ngon ngọt, được nấu từ gạo và lươn tươi, thêm hành và tiêu để tăng hương vị."
+  },
+  {
+    "id": 28,
+    "tenMonAn": "Bún Mắm",
+    "giaMonAn": 60.000,
+    "moTa": "Bún mắm miền Tây với nước dùng từ cá mắm, kèm theo các loại rau sống và gia vị, tạo nên hương vị đặc trưng."
+  },
+  {
+    "id": 29,
+    "tenMonAn": "Bánh Đúc",
+    "giaMonAn": 15.000,
+    "moTa": "Món bánh đúc mềm mịn, thường được ăn kèm với nước mắm chua ngọt và rau sống."
+  },
+  {
+    "id": 30,
+    "tenMonAn": "Cá Kho Tộ",
+    "giaMonAn": 70.000,
+    "moTa": "Món cá kho đậm đà trong nồi đất, với nước kho ngọt ngào, ăn kèm với cơm nóng."
+  },
+  {
+    "id": 31,
+    "tenMonAn": "Gà Nướng Mật Ong",
+    "giaMonAn": 90.000,
+    "moTa": "Gà nướng vàng giòn, tẩm ướp mật ong ngọt ngào và gia vị, tạo nên hương vị thơm ngon."
+  },
+  {
+    "id": 32,
+    "tenMonAn": "Gà Xào Sả Ớt",
+    "giaMonAn": 75.000,
+    "moTa": "Món gà xào với sả và ớt cay nồng, đem lại hương vị thơm lừng và đậm đà."
+  },
+  {
+    "id": 33,
+    "tenMonAn": "Cơm Gà Xối Mỡ",
+    "giaMonAn": 65.000,
+    "moTa": "Gà chiên giòn, xối mỡ thơm phức, ăn kèm cơm trắng và rau sống."
+  },
+  {
+    "id": 34,
+    "tenMonAn": "Gà Kho Gừng",
+    "giaMonAn": 70.000,
+    "moTa": "Gà kho đậm đà hương vị gừng, ăn kèm với cơm trắng nóng hổi."
+  },
+  {
+    "id": 35,
+    "tenMonAn": "Gà Hấp Lá Chanh",
+    "giaMonAn": 80.000,
+    "moTa": "Gà hấp thơm ngon với lá chanh, mang đến hương vị nhẹ nhàng và thanh khiết."
+  },
+  {
+    "id": 36,
+    "tenMonAn": "Bò Lúc Lắc",
+    "giaMonAn": 95.000,
+    "moTa": "Thịt bò mềm xào cùng rau củ tươi ngon, tạo nên món ăn hấp dẫn và đầy màu sắc."
+  },
+  {
+    "id": 37,
+    "tenMonAn": "Bò Kho",
+    "giaMonAn": 90.000,
+    "moTa": "Món bò kho ăn kèm bánh mì, với nước dùng thơm ngon và thịt bò mềm mại."
+  },
+  {
+    "id": 38,
+    "tenMonAn": "Bò Xào Rau Muống",
+    "giaMonAn": 85.000,
+    "moTa": "Bò xào với rau muống tươi xanh, mang lại hương vị thanh mát và dinh dưỡng."
+  },
+  {
+    "id": 39,
+    "tenMonAn": "Bò Nhúng Dấm",
+    "giaMonAn": 120.000,
+    "moTa": "Thịt bò nhúng dấm nóng, ăn kèm với rau sống và nước chấm đặc biệt."
+  },
+  {
+    "id": 40,
+    "tenMonAn": "Bò Hầm Tiêu Xanh",
+    "giaMonAn": 100.000,
+    "moTa": "Món bò hầm với tiêu xanh cay nồng, tạo nên hương vị đậm đà và hấp dẫn."
+  },
+  {
+    "id": 41,
+    "tenMonAn": "Heo Quay Giòn Bì",
+    "giaMonAn": 80.000,
+    "moTa": "Thịt heo quay giòn tan, với lớp bì vàng ruộm, ăn kèm với nước mắm chua ngọt."
+  },
+  {
+    "id": 42,
+    "tenMonAn": "Sườn Heo Nướng",
+    "giaMonAn": 95.000,
+    "moTa": "Sườn heo nướng thơm lừng, ngấm gia vị, ăn kèm với rau sống và nước chấm."
+  },
+  {
+    "id": 43,
+    "tenMonAn": "Thịt Heo Xào Chua Ngọt",
+    "giaMonAn": 70.000,
+    "moTa": "Thịt heo xào chua ngọt, hòa quyện vị chua từ dứa và vị ngọt từ đường."
+  },
+  {
+    "id": 44,
+    "tenMonAn": "Heo Kho Tàu",
+    "giaMonAn": 75.000,
+    "moTa": "Món heo kho trứng theo phong cách miền Nam, với nước kho đậm đà và thơm ngon."
+  },
+  {
+    "id": 45,
+    "tenMonAn": "Thịt Heo Rang Cháy Cạnh",
+    "giaMonAn": 65.000,
+    "moTa": "Thịt heo rang cháy cạnh, thơm lừng, với lớp da giòn và hương vị đậm đà."
+  },
+  {
+    "id": 46,
+    "tenMonAn": "Lẩu Gà Lá Giang",
+    "giaMonAn": 150.000,
+    "moTa": "Lẩu gà chua cay với lá giang, phù hợp để ăn cùng bạn bè và gia đình."
+  },
+  {
+    "id": 47,
+    "tenMonAn": "Lẩu Bò Nhúng Mẻ",
+    "giaMonAn": 180.000,
+    "moTa": "Món lẩu bò với nước dùng chua nhẹ, ăn kèm với các loại rau và nước chấm."
+  },
+  {
+    "id": 48,
+    "tenMonAn": "Thịt Heo Xông Khói",
+    "giaMonAn": 85.000,
+    "moTa": "Thịt heo xông khói với hương vị đặc trưng, ăn kèm với bánh mì hoặc cơm."
+  },
+  {
+    "id": 49,
+    "tenMonAn": "Gà Rang Muối",
+    "giaMonAn": 85.000,
+    "moTa": "Gà chiên giòn với lớp muối bọc ngoài, mang đến hương vị đậm đà và hấp dẫn."
+  },
+  {
+    "id": 50,
+    "tenMonAn": "Thịt Heo Cuộn Nấm",
+    "giaMonAn": 100.000,
+    "moTa": "Thịt heo cuộn nấm xào sốt đậm đà, món ăn ngon miệng và dinh dưỡng."
+  },
+  {
+    "id": 51,
+    "tenMonAn": "Mì Gà Tần",
+    "giaMonAn": 70.000,
+    "moTa": "Món mì với gà tần được hầm mềm mại, nước dùng thơm ngon, ăn kèm với rau sống."
+  },
+  {
+    "id": 52,
+    "tenMonAn": "Mì Quảng",
+    "giaMonAn": 60.000,
+    "moTa": "Mì Quảng đặc sản miền Trung với tôm, thịt và rau sống, được trang trí đẹp mắt."
+  },
+  {
+    "id": 53,
+    "tenMonAn": "Mì Xào Hải Sản",
+    "giaMonAn": 80.000,
+    "moTa": "Mì xào với hải sản tươi ngon, kết hợp cùng các loại rau củ, hương vị đậm đà."
+  },
+  {
+    "id": 54,
+    "tenMonAn": "Mì Tôm Tôm Thật",
+    "giaMonAn": 30.000,
+    "moTa": "Mì ăn liền với tôm và gia vị đặc trưng, thích hợp cho bữa ăn nhanh gọn."
+  },
+  {
+    "id": 55,
+    "tenMonAn": "Mì Ý Bò Bằm",
+    "giaMonAn": 85.000,
+    "moTa": "Mì Ý sốt thịt bò bằm, ngậy vị phô mai, mang đến trải nghiệm ẩm thực thú vị."
+  },
+  {
+    "id": 56,
+    "tenMonAn": "Kiên Hấp Hối",
+    "giaMonAn": 31102003,
+    "moTa": "Món ăn chỉ có tại nhà hàng Zeros"
+  }
+]
