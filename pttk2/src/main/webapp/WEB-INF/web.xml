@@ -1,0 +1,8 @@
+<web-app>
+  <!--  Tên hiển thị của ứng dụng web  -->
+  <display-name>Archetype Created Web Application</display-name>
+  <!--  Cấu hình trang mặc định  -->
+  <welcome-file-list>
+    <welcome-file>GDTrangChinhNhanVienQuanLi252.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
